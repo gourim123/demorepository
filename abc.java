@@ -1,6 +1,7 @@
 public class Abc
 {
 	public static void main(String args[]){
-		System.out.println("Hello Hi");
+		int x=200;
+		System.out.println(x);
 }
 } 
